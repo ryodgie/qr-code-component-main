@@ -7,12 +7,12 @@
 
 body {
   font-family: "Outfit", sans-serif;
-  font-size: 15px;
+  font-size: 0.938rem;
   background: var(--light-gray);
 }
 
 .attribution {
-  font-size: 11px;
+  font-size: 0.688rem;
   text-align: center;
 }
 .attribution a {
@@ -45,14 +45,14 @@ img {
 
 h1 {
   color: var(--dark-blue);
-  font-size: 20px;
+  font-size: 1.25rem;
   text-align: center;
   font-weight: 700;
 }
 
 p {
   color: var(--light-gray);
-  font-size: 15px;
+  font-size: 0.938rem;
   font-weight: 400;
   text-align: center;
 }
